@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.md
+!README.md
